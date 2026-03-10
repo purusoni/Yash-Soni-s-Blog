@@ -1,23 +1,13 @@
-# The Interesting Times - Jekyll Theme
+# Blog-Website
 
-[Live Demo](https://ohduran.github.io/the-interesting-times) &nbsp; | &nbsp; [Download](https://github.com/ohduran/the-interesting-times/archive/master.zip) &nbsp; | &nbsp; [Support me on Patreon](https://patreon.com/alvaroduran)
+This is the repository for my personal blog website.
 
-![mediumish](assets/images/the-interesting-times.png)
+## Theme Attribution
 
+This site is built using **The Interesting Times** theme for Jekyll. 
 
-### Copyright
+- **Original Theme:** [ohduran/the-interesting-times](https://github.com/ohduran/the-interesting-times)
+- **Creator:** Designed and developed by [Alvaro Duran](https://www.alvaroduran.com)
+- **License:** *Free* under [MIT license](https://alvaroduran.mit-license.org/)
 
-Copyright (C) 2019 Alvaro Duran, https://www.alvaroduran.com
-
-**The Interesting Times theme for Jekyll** is designed and developed by [Alvaro](https://alvaroduran.com) and it is *free* under [MIT license](https://alvaroduran.mit-license.org/).
-
-<a href="https://patreon.com/alvaroduran" target="_blank">Support me on Patreon</a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/ohduran/the-interesting-times).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+<a href="https://patreon.com/alvaroduran" target="_blank">Support the theme creator on Patreon</a>
