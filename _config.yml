@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/the-interesting-times" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Privacy-focused, cookieless analytics alternatives (GDPR/CCPA compliant)
-goatcounter: '' # e.g., 'your-username' (for your-username.goatcounter.com)
+goatcounter: 'purusoni' # e.g., 'your-username' (for your-username.goatcounter.com)
 plausible: ''   # e.g., 'yourdomain.com'
 # google_analytics: 'UA-131540516-1' # Note: GA usually requires cookie consent banners
 twitter_username: jekyllrb
